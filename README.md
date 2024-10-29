@@ -9,7 +9,7 @@ I'm a Fullstack Engineer with a passion for creating responsive and elegant web 
 - **Tools & Technologies:** Git, Nginx, WordPress, GitHub Actions
 
 ## 🔗 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/excelyno-magenta-b817192a7)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/excelyno-magenta-b817192a7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/lynoforcode/)
 - **Personal Website:** [Your Website URL]
 
@@ -23,6 +23,6 @@ I'm a Fullstack Engineer with a passion for creating responsive and elegant web 
 - [Blog Post 3 Title](#)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&hide_border=true)
 
 Thank you for visiting my profile! Don't hesitate to connect, collaborate, or check out my repositories.
