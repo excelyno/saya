@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] 
+# Hi there! 👋 I'm Excelyno Magenta 
 
 I'm a Fullstack Engineer with a passion for creating responsive and elegant web applications. With expertise in front-end and back-end development, I aim to provide effective solutions and great user experiences through my work.
 
@@ -9,7 +9,7 @@ I'm a Fullstack Engineer with a passion for creating responsive and elegant web 
 - **Tools & Technologies:** Git, Nginx, WordPress, GitHub Actions
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** www.linkedin.com/in/excelyno-magenta-b817192a7
 - **Twitter:** [Your Twitter Handle]
 - **Personal Website:** [Your Website URL]
 
