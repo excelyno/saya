@@ -11,7 +11,9 @@ I'm a Fullstack Engineer with a passion for creating responsive and elegant web 
 ## 🔗 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/excelyno-magenta-b817192a7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/lynoforcode/)
-- **Personal Website:** [Your Website URL]
+- ## 3D Contribution Visual
+Check out my [3D GitHub Contributions](https://git-skyline.huakun.tech/contribution/github/excelyno/embed) in real-time!
+
 
 ## 🌱 Current Projects
 - Building a personalized web portfolio with responsive features and an interactive UI.
