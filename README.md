@@ -12,17 +12,13 @@ I'm a Fullstack Engineer with a passion for creating responsive and elegant web 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/excelyno-magenta-b817192a7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/lynoforcode/)
 - ## 3D Contribution Visual
-[3D GitHub Contributions](https://git-skyline.huakun.tech/contribution/github/excelyno/embed) 
+![3D GitHub Contributions](profile-3d-contrib/profile-south-season-animate.svg) 
 
 
 ## 🌱 Current Projects
 - Building a personalized web portfolio with responsive features and an interactive UI.
 - Developing a full-featured attendance application integrated with AWS S3 and VPS hosting.
 
-## 📝 Latest Blog Posts
-- [Blog Post 1 Title](#)
-- [Blog Post 2 Title](#)
-- [Blog Post 3 Title](#)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&hide_border=true)
