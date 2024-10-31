@@ -14,7 +14,6 @@ I'm a Fullstack Engineer with a passion for creating responsive and elegant web 
 - ## 3D Contribution Visual
 ![3D GitHub Contributions](profile-3d-contrib/profile-south-season-animate.svg) 
 
-
 ## 🌱 Current Projects
 - Building a personalized web portfolio with responsive features and an interactive UI.
 - Developing a full-featured attendance application integrated with AWS S3 and VPS hosting.
