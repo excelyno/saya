@@ -70,8 +70,11 @@
 ## 📈 Activity Graph
 [![Activity](https://activity-graph.herokuapp.com/graph?username=excelyno&theme=github)](https://github.com/excelyno)
 
-## 🎵 Currently Playing
-[![About You - The 1975](https://img.shields.io/badge/About%20You%20--%20The%201975-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0qQXbbEFCoQQNJNipMHOaV)
+## 🎵 Currently Playing / Recently Played
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3172e5yc6fr66ht5hirxsmogeyfm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- ... (rest of the README remains the same) ... -->
 
 ## 💰 Support Me
 <p align="left">
