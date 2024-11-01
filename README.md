@@ -13,16 +13,16 @@
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🏆 GitHub Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=excelyno&theme=onedark&column=8)
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical" />
 </p>
 
 ## 🛠️ Skills
@@ -59,7 +59,7 @@
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/excelynomagenta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourusername">
@@ -74,10 +74,10 @@
 </p>
 
 ## 📈 Activity Graph
-[![Activity](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)](https://github.com/yourusername)
+[![Activity](https://activity-graph.herokuapp.com/graph?username=excelyno&theme=github)](https://github.com/excelyno)
 
 ## 🎵 Currently Playing
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/excelyno)
 
 ## 💰 Support Me
 <p align="left">
