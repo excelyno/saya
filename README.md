@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+There!+👋;I'm+Your+Name!;Welcome+to+my+GitHub+Profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+There!+👋;I'm+Excelyno!;Welcome+to+my+GitHub+Profile!" alt="Title"></img>
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
@@ -59,17 +59,11 @@
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/excelynomagenta">
+  <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -77,21 +71,21 @@
 [![Activity](https://activity-graph.herokuapp.com/graph?username=excelyno&theme=github)](https://github.com/excelyno)
 
 ## 🎵 Currently Playing
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/excelyno)
+[![About You - The 1975](https://img.shields.io/badge/About%20You%20--%20The%201975-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0qQXbbEFCoQQNJNipMHOaV)
 
 ## 💰 Support Me
 <p align="left">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://www.buymeacoffee.com/excelyno" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=excelyno&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/excelyno/excelyno/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
