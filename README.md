@@ -71,9 +71,15 @@
 ## 📈 Activity Graph
 [![Activity](https://activity-graph.herokuapp.com/graph?username=excelyno&theme=github)](https://github.com/excelyno)
 
-## 🎵 Currently Playing / Recently Played
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3172e5yc6fr66ht5hirxsmogeyfm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## 🎵 Currently On Repeat
+<p align="left">
+  <a href="https://open.spotify.com/track/YOUR_TRACK_ID">
+    <img src="https://img.shields.io/badge/Song%20Name-Artist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/track/ANOTHER_TRACK_ID">
+    <img src="https://img.shields.io/badge/Another%20Song-Another%20Artist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 ## 💰 Support Me
 <p align="left">
