@@ -7,11 +7,11 @@
 
 ## 🧐 About Me
 
-- 🔭 I'm currently Studying on **[SMK Negeri 2 Jember]**
-- 🌱 I'm currently learning **[DevOps]**
-- 💬 Ask me about **[something]**
+- 🔭 I'm currently Studying on **SMK Negeri 2 Jember**
+- 🌱 I'm currently learning **DevOps**
+- 💬 Ask me about **something**
 - 📫 How to reach me: **excellentqweee2gmail.com**
-- ⚡ Fun fact: **[I love my Nokturnal creature]**
+- ⚡ Fun fact: **I love my Nokturnal creature**
 
 ## 🏆 GitHub Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=excelyno&theme=onedark&column=8)
