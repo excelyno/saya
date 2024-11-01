@@ -42,8 +42,8 @@
 </p>
 
 <!-- Animasi slide in dari kiri -->
+ ### 👉 Frontend Development
 <div style="animation: slideIn 1s ease-in;">
-  ### 👉 Frontend Development
   <p align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -52,8 +52,8 @@
 </div>
 
 <!-- Animasi fade in -->
+### 👉 Backend Development
 <div style="animation: fadeIn 2s;">
-  ### 👉 Backend Development
   <p align="left">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
