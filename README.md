@@ -1,6 +1,31 @@
 <div align="center">
-  <h1>👋 Hi, I'm Excelyno</h1>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Excelyno!;" />
+  </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<style>
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translate3d(0, 40px, 0);
+    }
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0);
+    }
+  }
+
+  .fade-in-up {
+    animation: fadeInUp 2s ease-out;
+  }
+</style>
+
+<div class="fade-in-up">
 
 <!-- Profile Views Counter -->
 <p align="left">
@@ -56,6 +81,8 @@
 <div align="center">
   <h2>✍️ Random Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
 </div>
 
 ---
