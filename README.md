@@ -69,7 +69,7 @@
 </p>
 
 ## 📈 Activity Graph
-[![Activity](https://activity-graph.herokuapp.com/graph?username=excelyno&theme=github)](https://github.com/excelyno)
+[![Excelyno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎵 My Spotify Profile
 
