@@ -75,7 +75,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3172e5yc6fr66ht5hirxsmogeyfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3172e5yc6fr66ht5hirxsmogeyfm&redirect=true)
 
-[![Spotify Track](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/11dFghVXANMlKmJXsNCbNl)
 ## 💰 Support Me
 <p align="left">
   <a href="https://www.buymeacoffee.com/excelyno" target="_blank">
