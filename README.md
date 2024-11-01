@@ -72,7 +72,7 @@
 [![Activity](https://activity-graph.herokuapp.com/graph?username=excelyno&theme=github)](https://github.com/excelyno)
 
 ## 🎵 Currently On Repeat
-[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3172e5yc6fr66ht5hirxsmogeyfm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3172e5yc6fr66ht5hirxsmogeyfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+![[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3172e5yc6fr66ht5hirxsmogeyfm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3172e5yc6fr66ht5hirxsmogeyfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 ## 💰 Support Me
 <p align="left">
