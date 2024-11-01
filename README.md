@@ -26,7 +26,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical" />
 </p>
 
-## 🛠️ Skills
+
 
 <!-- Animasi untuk judul -->
 <picture>
@@ -35,7 +35,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+## 🛠️ Skills
 ### 👉 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" style="margin-right: 10px;" />
